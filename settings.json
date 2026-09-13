@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DNUniverse.aternos.me",
-    "port":43998 ,
-    "version": "1.20.1",
+    "ip": "DNUniverse.exaroton.me",
+    "port":12797 ,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
